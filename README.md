@@ -61,10 +61,6 @@ pie
     "Correct Predictions": 85
     "Incorrect Predictions": 15
 ```
-
-## 📄 License
-This project is licensed under the MIT License.
-
 ## 🙏 Acknowledgements
 - 📚 UCI Machine Learning Repository for the HAR dataset.
 - ⚙️ Scikit-learn for providing robust machine learning tools.
